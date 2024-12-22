@@ -1,13 +1,14 @@
 ## Summary
-Hi everyone 👋! I’m Yuanxiang from China. You can call me Shaun, as it sounds like my Chinese name.
+Hi everyone 👋! I’m Yuanxiang from China.
 
-I am a reliable, responsible team player with about 8 years of back-end experience, ready to contribute to company success. Have keen insight, good problem-solving skills, and strong writing skills. Wrote 1 million words during the student career, and applied for 24 Chinese patents during the working life. Have good knowledge of distributed system and microservices.
+A reliable back-end developer with 8 years of experience, strong problem-solving and writing skills, and a solid understanding of distributed systems. Authored 1M+ words (see [news](https://news.hnust.edu.cn/kdyw/43345.htm)), filed [24](https://patents.google.com/?inventor=袁沅祥&oq=袁沅祥) patents and delivered 4 high-quality Golang microservices at MEGVII.
 
 I have moved to Germany for career opportunities.
 
 ![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanyuanxiang)
 
 - 🔭 I’m currently looking for a job as a Golang (prefered) or C/C++ developer.
+- ⛏ I also believe I am capable of handling jobs involving Python / Java.
 - 🌱 I’m currently learning German as it's a must to live in Germany.
 - 👯 I’m looking for a learning opportunity in dynamic team more than a job.
 - 🤔 I’m looking for help with job recommendation.
