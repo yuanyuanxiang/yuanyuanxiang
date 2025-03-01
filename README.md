@@ -51,6 +51,10 @@ Since the 4th Quarter of 2024, I have moved to Germany for career opportunities.
 ## Trophy
 <img  src="https://github-profile-trophy.vercel.app/?username=yuanyuanxiang" />
 
+## Sponsor
+
+If my projects have been helpful to you, feel free to support me with a donation. 😊
+
 <!--
 **yuanyuanxiang/yuanyuanxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
