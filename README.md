@@ -47,6 +47,8 @@ Since the 4th Quarter of 2024, I have moved to Germany for career opportunities.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+![MATLAB](https://img.shields.io/badge/OpenCV-F07000?style=flat-square&logo=OpenCV&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MFC-F10000?style=flat-square&logo=MFC&logoColor=white)
 
 ## Trophy
 <img  src="https://github-profile-trophy.vercel.app/?username=yuanyuanxiang" />
