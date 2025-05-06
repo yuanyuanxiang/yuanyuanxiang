@@ -1,20 +1,16 @@
 ## Summary
-Hi everyone 👋! I’m Yuanxiang from China. Call me **Shaun** is also OK as it sounds like my Chinese name.
+Hi everyone 👋! I’m **Shaun**.
 
-<Hallo zusammen 👋! Ich bin Yuanxiang aus China. Ihr könnt mich auch **Shaun** nennen, da es wie mein chinesischer Name klingt.>
+I am a reliable backend developer and experienced in Go and C++ programming. 
 
-A reliable back-end developer with ~8 years of experience, strong problem-solving and writing skills, and a solid understanding of distributed systems. Possess strong mathematical thinking and programming skills. Experienced in C++ and Golang programming. Authored 1M+ words (see [news](https://news.hnust.edu.cn/kdyw/43345.htm)), filed [24](https://patents.google.com/?inventor=袁沅祥&oq=袁沅祥) patents and delivered 4 high-quality Golang microservices at MEGVII.
-
-Since the 4th Quarter of 2024, I have moved to Germany for career opportunities.
+Since the 4th Quarter of 2024, I have moved to Germany to start my new career.
 
 ![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanyuanxiang&count_private=true&show_icons=true&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanyuanxiang&hide=Tex&layout=compact)](https://github.com/yuanyuanxiang/github-readme-stats)
 
-- 🔭 I’m currently looking for a job as a Golang (prefered) or C/C++ developer.
-- ⛏ I also believe I am capable of handling jobs involving Python / Java.
+- 🔭 I’m proficient in Golang and C/C++ programming.
+- ⛏  Have in-depth research on Windows remote control programs.
 - 🌱 I’m currently learning German as it's a must to live in Germany.
-- 👯 I’m looking for a learning opportunity in dynamic team more than a job.
-- 🤔 I’m looking for help with job recommendation.
 - 😄 Pronouns: He / Him.
 - ⚡ Fun fact: Wrote 1 million words during the student career.
 
