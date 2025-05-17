@@ -14,6 +14,29 @@ Since the 4th Quarter of 2024, I have moved to Germany to start my new career.
 - 😄 Pronouns: He / Him.
 - ⚡ Fun fact: Wrote 1 million words during the student career.
 
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Stars |
+|--------|-------------|------|-------|
+| [**SimpleRemoter**](https://github.com/yuanyuanxiang/SimpleRemoter) | 🖥️ Lightweight remote desktop & control tool | `C++ / MFC` | ![Stars](https://img.shields.io/github/stars/yuanyuanxiang/SimpleRemoter?style=social) |
+| [**3DCode**](https://github.com/yuanyuanxiang/3DCode) | 🔢 A 3D colored QR code | `C++ / Android` | ![Stars](https://img.shields.io/github/stars/yuanyuanxiang/3DCode?style=social) |
+| [**HoldingHands**](https://github.com/yuanyuanxiang/HoldingHands) | 🧠 Free remote access trojan for research purpose | `C++ / Networking` | ![Stars](https://img.shields.io/github/stars/yuanyuanxiang/HoldingHands?style=social) |
+| [**Keeper**](https://github.com/yuanyuanxiang/Keeper) | 🔐 A Windows process daemon | `C++ / Win32` | ![Stars](https://img.shields.io/github/stars/yuanyuanxiang/Keeper?style=social) |
+| [**DIP_System**](https://github.com/yuanyuanxiang/DIP_System) | 🖼️ Digital Image Processing System | `C++` | ![Stars](https://img.shields.io/github/stars/yuanyuanxiang/DIP_System?style=social) |
+
+---
+
+## 🌟 Star Trends (SimpleRemoter)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yuanyuanxiang/SimpleRemoter&type=Date)](https://star-history.com/#yuanyuanxiang/SimpleRemoter&Date)
+
+---
+
+Feel free to explore and star the projects! 🚀
+
+
 ## Skills
 - Programming languages: 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -46,8 +69,12 @@ Since the 4th Quarter of 2024, I have moved to Germany to start my new career.
 ![MATLAB](https://img.shields.io/badge/OpenCV-F07000?style=flat-square&logo=OpenCV&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MFC-F10000?style=flat-square&logo=MFC&logoColor=white)
 
+---
+
 ## Trophy
 <img  src="https://github-profile-trophy.vercel.app/?username=yuanyuanxiang" />
+
+---
 
 ## Sponsor
 
